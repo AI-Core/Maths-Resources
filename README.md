@@ -6,6 +6,6 @@
 
 ## Further reading
 
-If you want a comprehensive understanding of everything you need to get started in ML, read [this](https://mml-book.github.io/book/mml-book.pdf) fantastic book by Marc Diesenroth, Aldo Faisal and Cheng Soon Ong.
+If you want a comprehensive understanding of everything you need to get started in ML, read [this](https://mml-book.github.io/book/mml-book.pdf) fantastic book by Marc Deisenroth, Aldo Faisal and Cheng Soon Ong.
 
-The first few chapters of Ian Goodfellow's classic [Deep Learning book](http://www.deeplearningbook.org/) are also great.
+The first few chapters of Ian Goodfellow et al's classic [Deep Learning book](http://www.deeplearningbook.org/) are also great.
